@@ -8,5 +8,5 @@
 | data.py | Хранит шаблоны для запросов|
 | sender_stand_request.py | Хранит функции обращающиеся к API|
 | tests.py | Хранит тесты на проверку. **Вызвать именно его через pytest**|
-| SQL-requests | запросы к PostgreSQL с нытьём |
-| result-of-testing | информация о результате тестирования |
+| SQL-requests | Запросы к PostgreSQL с нытьём |
+| result-of-testing | Информация о результате тестирования |
