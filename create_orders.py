@@ -1,5 +1,7 @@
 import data
 
+# Ахметов Тимур, 9-я когорта — Финальный проект. Инженер по тестированию плюс
+
 def create_order(firstName = "Naruto", 
                  lastName = "Uchiha", 
                  address = "Konoha, 142 apt.", 

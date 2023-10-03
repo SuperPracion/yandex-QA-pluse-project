@@ -1,6 +1,10 @@
 import sender_stand_request
 import create_orders
 
+# Мария Иванова, 1-я когорта — Финальный проект. Инженер по тестированию плюс
+# Шутка
+# Ахметов Тимур, 9-я когорта — Финальный проект. Инженер по тестированию плюс
+
 def test_check_create_order():
     pattern = create_orders.create_order()
     response = sender_stand_request.post_create_order(pattern)
